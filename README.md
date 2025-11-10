@@ -32,23 +32,6 @@ Utilize os recursos externos abaixo para rastrear o progresso, visualizar o cron
 
 ---
 
-## 🛠️ Começando (Como Rodar)
-
-Para clonar e executar o projeto em sua máquina local, siga os passos básicos abaixo.
-
-1.  **Clone o Repositório**
-    ```bash
-    git clone [https://github.com/SeuUsuario/NomeDoSeuRepositorio.git](https://github.com/SeuUsuario/NomeDoSeuRepositorio.git)
-    cd NomeDoSeuRepositorio
-    ```
-
-2.  **Instalação de Dependências**
-    * Siga as instruções específicas nas pastas `backend/` e `frontend/` (a serem criadas) para instalar as dependências necessárias de cada módulo.
-
-3.  **Execução**
-    * Inicie o servidor do Backend e, em seguida, a aplicação Frontend.
-
----
 
 ## 👥 Equipe de Desenvolvimento
 
