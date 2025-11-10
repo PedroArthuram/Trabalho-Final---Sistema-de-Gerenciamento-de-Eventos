@@ -2,7 +2,7 @@
 
 ## ✨ Visão Geral
 
-O **Sistema de Gerenciamento de Eventos * é uma solução de software completa desenvolvida para simplificar e automatizar o ciclo de vida de qualquer evento, desde a sua concepção até a análise pós-venda.
+O *Sistema de Gerenciamento de Eventos* é uma solução de software completa desenvolvida para simplificar e automatizar o ciclo de vida de qualquer evento, desde a sua concepção até a análise pós-venda.
 
 A plataforma atende a três perfis essenciais:
 
