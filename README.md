@@ -14,10 +14,10 @@ A plataforma atende a três perfis essenciais:
 
 O sistema foi concebido com foco nas seguintes áreas de funcionalidade:
 
-* [cite_start]**Gestão de Entidades:** Cadastro e manutenção de Usuários, Eventos e Lotes de Ingressos[cite: 7, 13, 19].
-* [cite_start]**Controle de Vendas:** Fluxo de compra de ingressos e criação automática de inscrições[cite: 24, 154].
-* [cite_start]**Segurança e Acesso:** Implementação obrigatória de Login (RNF01) e Controle de Acesso baseado em Perfil (RNF03) para garantir que cada usuário acesse apenas as funcionalidades permitidas[cite: 40, 51].
-* [cite_start]**Relatórios Estratégicos:** Emissão de relatórios detalhados de Inscritos por Evento e Relatórios Financeiros de Vendas para suporte à decisão[cite: 29, 34].
+* Gestão de Entidades:** Cadastro e manutenção de Usuários, Eventos e Lotes de Ingressos.
+* Controle de Vendas:** Fluxo de compra de ingressos e criação automática de inscrições.
+* Segurança e Acesso:** Implementação obrigatória de Login (RNF01) e Controle de Acesso baseado em Perfil (RNF03) para garantir que cada usuário acesse apenas as funcionalidades permitidas.
+* Relatórios Estratégicos:** Emissão de relatórios detalhados de Inscritos por Evento e Relatórios Financeiros de Vendas para suporte à decisão.
 
 ---
 
